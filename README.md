@@ -1,4 +1,4 @@
-```markdown
+
 # Immune System Twin: A DeSci Platform for Health Innovation 🌐🧬
 
 Immune System Twin is an advanced decentralized science (DeSci) platform that employs Zama's Fully Homomorphic Encryption (FHE) technology to create a "digital twin" of the human immune system. By aggregating globally sourced FHE-encrypted immunological data, this project aims to simulate vaccine effects and anticipate disease responses in a secure and privacy-preserving manner.
